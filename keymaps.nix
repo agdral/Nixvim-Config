@@ -18,6 +18,12 @@
     }
     {
       mode = "n";
+      key = "<leader>y";
+      action = "0y$<CR>";
+      options.desc = "Copy without New Line";
+    }
+    {
+      mode = "n";
       key = "j";
       action = "<cmd>q<CR>";
       options.desc = "Quit NeoVim";

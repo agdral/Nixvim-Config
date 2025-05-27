@@ -20,8 +20,8 @@
         "core.dirman" = {
           config = {
             workspaces = {
-              home = "/hdd/kael/Notes/home";
-              extern = "/hdd/kael/Notes/externo";
+              home = "/hdd/kael/Notes/Home";
+              work = "/hdd/kael/Notes/Work";
             };
             default_workspace = "home";
             index = "index.norg";
