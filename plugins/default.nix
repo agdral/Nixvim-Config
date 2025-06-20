@@ -3,7 +3,7 @@
     ./neotree.nix
     ./git.nix
     ./telescope.nix
-    # ./neorg.nix
+    ./neorg.nix
     ./barbar.nix
   ];
   plugins = {
